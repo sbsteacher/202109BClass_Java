@@ -1,4 +1,4 @@
-package ch01;
+package ch02;
 
 public class VariableExample3 {
     public static void main(String[] args) {
@@ -10,8 +10,6 @@ public class VariableExample3 {
         System.out.printf("%c : %d\n", (char)i, i);
 
         boolean bl = false;
-
-
         System.out.println(bl);
     }
 }
