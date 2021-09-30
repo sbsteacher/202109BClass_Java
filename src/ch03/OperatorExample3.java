@@ -10,8 +10,8 @@ public class OperatorExample3 {
         boolean result1 = n1 >= n2; //true
         boolean result2 = n3 > n4; //false
 
-        System.out.println(result1 && result2);
-        System.out.println(result1 || result2);
+        System.out.println(result1 && result2); //false
+        System.out.println(result1 || result2); //true
 
         System.out.println(true && true && false && true && true); //false
         System.out.println(n1 >= n2 || n3 < n4 || n1 > n4); //true

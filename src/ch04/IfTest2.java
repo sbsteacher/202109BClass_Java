@@ -9,7 +9,7 @@ public class IfTest2 {
         if(score >= 90) {
             grade = 'A';
             if(score >= 98) { pm = '+';  }
-            else if(score <= 93) { pm = '-'; }
+            else if(score <= 93) { pm = '-'; } // 90~93
         } else if (score >= 80) {
             grade = 'B';
             if(score >= 88) { pm = '+'; }
