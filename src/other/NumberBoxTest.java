@@ -10,7 +10,7 @@ public class NumberBoxTest {
         System.out.println(bn1.getVal());
         System.out.println(bn2.getVal());
 
-        System.out.println("bn1 : " + bn1);
+        System.out.println(bn1);
         System.out.println(bn1.toString());
         System.out.println("bn2 : " + bn2);
         System.out.println(bn2.toString());

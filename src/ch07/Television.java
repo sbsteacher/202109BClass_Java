@@ -4,14 +4,10 @@ public class Television implements RemoteControl {
     private int volume;
 
     @Override
-    public void turnOn() {
-
-    }
+    public void turnOn() {}
 
     @Override
-    public void turnOff() {
-
-    }
+    public void turnOff() {}
 
     @Override
     public void volumeUp() {
